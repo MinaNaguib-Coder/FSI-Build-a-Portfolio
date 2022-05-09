@@ -1,0 +1,32 @@
+h1 {
+    text-align: center; 
+    font-weight: bold;
+    color: Black;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    color: blue;
+}
+
+h3 {
+    font-style: bold;
+    font-style: italic;
+    color: yellow;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+  }
+
+  div{
+    width: auto; 
+    border: 1px solid #000000;
+    word-wrap: break-word;
+    background-color: white
+  }
